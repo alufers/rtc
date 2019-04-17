@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cairo.h": "c",
+        "xshm.h": "c",
+        "xutil.h": "c"
+    }
+}
